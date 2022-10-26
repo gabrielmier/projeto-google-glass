@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+video#filme2 {
+    width: 350px;
+}
+
+video#filme1 {
+    width: 500px;
+    border: 5px solid #606060;
+}
